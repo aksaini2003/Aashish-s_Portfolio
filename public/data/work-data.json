@@ -1,0 +1,40 @@
+{
+  "workData": [
+    {
+      "image": "/images/work/my_sql_agent.png",
+      "title": "Smart Database Agent",
+      
+      "slug": "https://mysql-agent-by-aksaini2003.streamlit.app/"
+    },
+    {
+      "image": "/images/work/Insight_genie.png",
+      "title": "Multi-Doc QnA System with Translator and Summarizer",
+      
+      "slug": "https://insight-genie-by-ak-saini-2003.streamlit.app/"
+    },
+    {
+      "image": "/images/work/resume_analyzer.png",
+      "title": "Resume Analyzer with Job description",
+      
+      "slug": "https://resume-analyzer-by-aksaini2003.streamlit.app/"
+    },
+    {
+      "image": "/images/work/advanced_movie_recommendation.png",
+      "title": "Advanced Movie Recommendation System",
+      
+      "slug": "https://movie-recommendation-system-git-mmilquccfstm5gwjpsgkwv.streamlit.app/"
+    },
+    {
+      "image": "/images/work/crop.png",
+      "title": "Crop Recommendation System",
+      
+      "slug": "https://crop-recommendation-system-2-jamv.onrender.com/"
+    },
+    {
+      "image": "/images/work/sentiment.png",
+      "title": "Sentiment AI",
+    
+      "slug": "https://sentiment-ai-57et.onrender.com/"
+    }
+  ]
+}

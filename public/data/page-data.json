@@ -1,0 +1,128 @@
+{
+  "contactBar": {
+    "contactItems": [
+      {
+        "type": "email",
+        "label": "aashishkumarsaini2003@gmail.com",
+        "icon": "/images/icon/mail-icon.svg",
+        "link": "mailto:aashishkumarsaini2003@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+91 8764954136",
+        "icon": "/images/icon/call-icon.svg",
+        "link": "tel:+918764954136"
+      }
+      
+    ],
+    "socialItems": [
+      {
+        "platform": "Github",
+        "icon": "/images/icon/github_logo.svg",
+        "link": "https://github.com/aksaini2003"
+      },
+      {
+        "platform": "linkedin",
+        "icon": "/images/icon/linkedin-icon.svg",
+        "link": "https://www.linkedin.com/in/aashish-kumar-saini-03946b296/?skipRedirect=true"
+      },
+      {
+        "platform": "Leetcode",
+        "icon": "/images/icon/leetcode_logo.svg",
+        "link": "https://leetcode.com/u/Aashish_023/"
+      },
+      {"title":"HackerRank",
+      "icon":"/images/icon/hackerrank_icon.svg",
+    "link":"https://www.hackerrank.com/profile/aksaini2282003"}
+    ]
+  },
+  "educationData": {
+    "education": [
+      {
+        "title": "Senior Secondary Education - 2022",
+        "description": "Secured 88.4% with a strong foundation in Physics, Chemistry, and Mathematics."
+      },
+      {
+        "title": "B.Tech in Computer Science and Engineering(Pursuing) - 2026",
+        "description": "Maintaining a strong academic record with a current CGPA of 9.54, with a solid foundation in data structures, algorithms, databases, and machine learning."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "icon": "/images/home/education-skill/Python_icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "LangGraph",
+        "icon": "/images/home/education-skill/langgraph_icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "LangChain",
+        "icon": "/images/home/education-skill/langchain_icon.svg",
+        "rating": 4
+      },
+      {
+        "name": "Model Context Protocol",
+        "icon": "/images/home/education-skill/modelcontextprotocol.svg",
+        "rating": 3
+      },
+      {
+        "name": "n8n",
+        "icon": "/images/home/education-skill/n8n_icon.svg",
+        "rating": 4
+      },
+      {
+        "name": "FastAPI",
+        "icon": "/images/home/education-skill/fastapi_icon.svg",
+        "rating": 3
+      },
+      {
+        "name": "CrewAI",
+        "icon": "/images/home/education-skill/crewai_icon.svg",
+        "rating": 4
+      },
+      {
+        "name": "Mysql",
+        "icon": "/images/home/education-skill/mysql_icon.svg",
+        "rating": 4
+      },
+      {
+        "name": "Scikit-learn",
+        "icon": "/images/home/education-skill/sklearn_icon.svg",
+        "rating": 3
+      }
+    ]
+  },
+  "contactLinks": {
+    "socialLinks": [
+      {
+        "title": "Github",
+        "href": "https://github.com/aksaini2003"
+      },
+      {
+        "title": "LinkedIn",
+        "href": "https://www.linkedin.com/in/aashish-kumar-saini-03946b296/?skipRedirect=true"
+      },
+      {
+        "title": "Leetcode",
+        "href": "https://leetcode.com/u/Aashish_023/"
+      },
+      {"title":"HackerRank",
+    "href":"https://www.hackerrank.com/profile/aksaini2282003"}
+    ],
+    "contactInfo": [
+      {
+        "type": "email",
+        "label": "aashishkumarsaini2003@gmail.com",
+        "link": "mailto:aashishkumarsaini2003@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+91 8764954136",
+        "link": "tel:+918764954136"
+      }
+    ]
+  }
+}
