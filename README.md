@@ -1,55 +1,64 @@
-# Aashish's Portfolio — Built from Resume Next.js Template
-#### Preview
+# Aashish's Portfolio
 
- - Original Template Demo: https://themewagon.github.io/Resume-Nextjs/
+Live demo: https://aashish-s-portfolio-wm56.vercel.app/
 
-#### Built from
- - This portfolio was created by **Aashish** using the "Resume - Free Next.js Resume Website Template" (getnextjstemplates / ThemeWagon).
+Personal portfolio website showcasing projects, experience, and contact information. This repository contains customizations made by Aashish.
 
 ---
 
-## Getting Started
+## About me
 
-Clone the repo:
+**Aashish** — Frontend Developer
+
+Short bio: Replace this with a short description about yourself (skills, role, interests, location).
+
+**Contact**
+
+- Email: aashishkumarsaini2003@gmail.com
+- GitHub: https://github.com/yourusername
+- LinkedIn: https://linkedin.com/in/yourprofile
+
+---
+
+## How to use this template
+
+1. Clone the repository:
 ```bash
-git clone https://github.com/themewagon/Resume-Nextjs.git
+git clone <your-repo-url>
 ```
-
-Install dependencies:
+2. Install dependencies:
 ```bash
 npm install
 ```
-
-Run development server:
+3. Run the development server:
 ```bash
 npm run dev
 ```
-
-Build for production:
+4. Build for production:
 ```bash
 npm run build
 ```
 
+### Customize content
+
+- Edit textual content and data in `public/data` (e.g., `page-data.json`, `work-data.json`).
+- Modify React components under `src/app/components` to change layout or sections.
+- Replace or add images in `public/images` and update component paths accordingly.
+- Update site metadata (title/description) in `src/app/layout.tsx` and `next.config.ts`.
+- To add a new project, add an entry to `public/data/work-data.json` and include corresponding images.
+
 ---
 
-## Customization (quick tips)
+## Deploy
 
-- Content lives in `src/app` and `public/data` — edit the JSON files and components under `src/app/components`.
-- Replace images in `public/images` and update paths in your components.
-- Update site metadata (title, description) in `src/app/layout.tsx` and `next.config.ts` if needed.
-- Deploy with Vercel, Netlify, or your preferred host.
+Deploy the site to platforms like Vercel or Netlify. Connect the repository and follow the platform's build instructions (default build: `npm run build`).
 
 ---
 
-## Author & Attribution
+## Notes
 
-- Portfolio created by **Aashish**.
-- Original design and starter code by [getnextjstemplates](https://getnextjstemplates.com/) and distributed by [ThemeWagon](https://themewagon.com).
-
-## License
-
-- Design and code from the original template are subject to their license (MIT).
-- This repository contains user customizations by Aashish.
+- This README focuses on the portfolio and how to use this template. Replace placeholder contact/bio values with your actual info.
+- If you'd like, I can add your deployed site URL and a short bio to this file.
 
 
 
