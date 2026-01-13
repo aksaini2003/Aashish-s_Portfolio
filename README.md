@@ -57,10 +57,6 @@ Deploy the site to platforms like Vercel or Netlify. Connect the repository and 
 
 ---
 
-## Notes
-
-- This README focuses on the portfolio and how to use this template. Replace placeholder contact/bio values with your actual info.
-- If you'd like, I can add your deployed site URL and a short bio to this file.
 
 
 
