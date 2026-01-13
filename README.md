@@ -8,15 +8,17 @@ Personal portfolio website showcasing projects, experience, and contact informat
 
 ## About me
 
-**Aashish** — Frontend Developer
+**Aashish Kumar Saini — Data Scientist | Data Analyst | ML Engineer | Generative AI Engineer**
 
-Short bio: Replace this with a short description about yourself (skills, role, interests, location).
+Data Scientist skilled in Machine Learning, Data Analysis, and Generative AI. Hands-on experience building Retrieval-Augmented Generation (RAG) pipelines and intelligent applications using LangChain and LangGraph. Recent projects include a personalized financial advice generator that uses news ingestion, NER, sentiment analysis (FinBERT), embeddings (Sentence Transformers), and ChromaDB for semantic search.
 
 **Contact**
 
 - Email: aashishkumarsaini2003@gmail.com
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
+- Phone: +91 8764954136
+- Location: Alwar, Rajasthan, India
+- GitHub: https://github.com/aksaini2003
+- LinkedIn: https://www.linkedin.com/in/aashish-kumar-saini-03946b296/
 
 ---
 
