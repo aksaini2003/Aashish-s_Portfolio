@@ -46,7 +46,7 @@ const AboutMe = () => {
 
               <div className="grid grid-cols-3 py-10 xl:py-16 gap-5 border-b border-mistGray mt-8">
                 {[
-                  { count: "3+", label: "AI Projects" },
+                  { count: "10+", label: "AI Projects" },
                   { count: "10+", label: "Technologies Used" },
                   { count: "9.54", label: "CGPA" },
                 ].map((item, i) => (
