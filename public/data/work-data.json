@@ -1,6 +1,27 @@
 {
   "workData": [
     {
+      "image":"/images/work/blog_writer.png",
+      "title":"Blog Writer Automation(1 Image + HTML Blog) Using n8n",
+      "slug":"https://www.linkedin.com/posts/aashish-kumar-saini-03946b296_n8n-multiagentai-aiautomation-activity-7477262000989839362--pOk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEedgG0By9O7HUN2rm5QLyDqQL1cDRJY5fY"
+    },
+    {
+      "image":"/images/work/Slack Bot.png",
+      "title":"Context Aware AI Assistant for Slack Using n8n",
+      "slug":"https://www.linkedin.com/posts/aashish-kumar-saini-03946b296_slackbot-aiautomation-n8n-activity-7465235346021060608-xOUt?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEedgG0By9O7HUN2rm5QLyDqQL1cDRJY5fY" },
+    {
+      "image":"/images/work/Foodie_ai_with_whatsapp.png",
+      "title":"AI Powered Restaurant Support Assistant(Foodie AI) with Whatsapp Integration Using n8n",
+      "slug":"https://www.linkedin.com/posts/aashish-kumar-saini-03946b296_whatsappbusiness-whatsappapi-aiautomation-activity-7464250096839204864-F7hx?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEedgG0By9O7HUN2rm5QLyDqQL1cDRJY5fY"}
+      ,{
+      "image":"/images/work/restaurant_support_agent.png",
+      "title":"AI Powered Restaurant Support Assistant(Foodie AI) Using n8n",
+      "slug":"https://www.linkedin.com/posts/aashish-kumar-saini-03946b296_aiagents-automation-restauranttech-activity-7463415845709418497-hh5i?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEedgG0By9O7HUN2rm5QLyDqQL1cDRJY5fY"
+    },{
+      "image":"/images/work/telegram_automation.png",
+      "title":"Smart Telegram Customer Support Bot Using Make.com",
+      "slug":"https://www.linkedin.com/posts/aashish-kumar-saini-03946b296_aiautomation-ai-telegrambot-activity-7460599820852842496-3qWb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEedgG0By9O7HUN2rm5QLyDqQL1cDRJY5fY"    },
+    {
       "image": "/images/work/my_sql_agent.png",
       "title": "Smart Database Agent",
       
