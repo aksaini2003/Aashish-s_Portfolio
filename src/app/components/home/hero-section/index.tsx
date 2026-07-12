@@ -20,12 +20,10 @@ const index = () => {
                   />
                 </div>
               </div>
-              <h1>Data Scientist</h1>
+              <h1>AI Engineer</h1>
             </div>
             <p className="text-secondary font-normal max-w-md xl:max-w-xl">
-              I am a Data Scientist with strong expertise in Machine Learning, Data Analysis, 
-              and Generative AI. I build intelligent, end-to-end AI systems using NLP, RAG pipelines, 
-              and modern LLM frameworks to solve real-world problems.
+              I am an AI Engineer with expertise in Machine Learning, Generative AI, and AI Automation. I build intelligent AI applications, autonomous agents, RAG systems, and end-to-end automation workflows using modern AI frameworks to solve real-world business problems.
             </p>
           </div>
           <Image

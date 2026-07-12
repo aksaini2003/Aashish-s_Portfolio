@@ -13,6 +13,7 @@ const EducationSkills = () => {
         if (!res.ok) throw new Error("Failed to fetch");
         const data = await res.json();
         setEductionData(data?.educationData);
+        
       } catch (error) {
         console.error("Error fetching services:", error);
       }

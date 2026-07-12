@@ -26,11 +26,11 @@ const AboutMe = () => {
 
             <div className="w-full lg:max-w-2xl flex-1">
               <p className="text-base md:text-lg leading-relaxed text-gray-700">
-                I am <strong>Aashish Kumar Saini</strong>, a Data Scientist with a strong
-                foundation in <strong>Machine Learning, Data Analysis, and Generative AI</strong>.
-                I enjoy building intelligent, data-driven applications that solve real-world
-                problems using modern AI techniques.
-              </p>
+  I am <strong>Aashish Kumar Saini</strong>, an <strong>AI Engineer</strong> with expertise in
+  <strong> AI/ML, Generative AI, and AI Automation</strong>. I specialize in building
+  intelligent applications, autonomous AI agents, and end-to-end automation workflows that
+  solve real-world business problems using modern AI technologies.
+</p>
 
               <p className="text-base md:text-lg leading-relaxed text-gray-700 mt-4">
                 I have hands-on experience developing <strong>end-to-end NLP and Generative AI systems</strong>,
@@ -40,15 +40,16 @@ const AboutMe = () => {
 
               <p className="text-base md:text-lg leading-relaxed text-gray-700 mt-4">
                 Currently pursuing my <strong>B.Tech in Computer Science and Engineering</strong> with a
-                <strong> CGPA of 9.54</strong>, I actively work on real-world projects involving financial
+                <strong> CGPA of 9.56</strong>, I actively work on real-world projects involving financial
                 analytics, intelligent automation, and recommendation systems.
               </p>
 
               <div className="grid grid-cols-3 py-10 xl:py-16 gap-5 border-b border-mistGray mt-8">
                 {[
                   { count: "10+", label: "AI Projects" },
-                  { count: "10+", label: "Technologies Used" },
-                  { count: "9.54", label: "CGPA" },
+                  { count: "20+", label: "Technologies Used" },
+                  { count: "9.56", label: "CGPA" },
+                  {count: "20+", label: "AI Automations(Using n8n)"}
                 ].map((item, i) => (
                   <div key={i} className="text-center">
                     <h3 className="text-3xl font-bold text-black">{item.count}</h3>
